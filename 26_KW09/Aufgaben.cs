@@ -12,7 +12,7 @@ namespace ILA25_2.Sem_M320
         {
             // =====================================
             // AUFGABE 1: Hallo Konsole
-            // Gib in der Konsole den Text "Hallo Welt" aus.
+            // Gib in der Konsole den Text "Hallo Welt" aus
             // Verwende Console.WriteLine.
             // =====================================
 
