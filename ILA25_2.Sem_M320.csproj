@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ILA25_2.Sem_M320._26_KW17.Aufgabe7</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -48,7 +51,10 @@
     <Compile Include="26_KW11\Aufgaben.cs" />
     <Compile Include="26_KW12\Aufgaben.cs" />
     <Compile Include="26_KW14\Aufgaben.cs" />
+    <Compile Include="26_KW17\Aufgabe6.cs" />
+    <Compile Include="26_KW17\Aufgabe7.cs" />
     <Compile Include="26_KW17\Aufgaben.cs" />
+    <Compile Include="26_KW18\Aufgaben.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
