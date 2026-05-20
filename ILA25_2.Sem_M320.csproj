@@ -55,6 +55,7 @@
     <Compile Include="26_KW17\Aufgabe7.cs" />
     <Compile Include="26_KW17\Aufgaben.cs" />
     <Compile Include="26_KW18\Aufgaben.cs" />
+    <Compile Include="26_KW21\Aufgaben.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
